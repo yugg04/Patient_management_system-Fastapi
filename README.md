@@ -13,6 +13,12 @@ This project demonstrates **real-world backend + UI integration**, not a static 
 
 ---
 
+## 🚀 Live Demo
+
+Try the deployed Carelytics application here:
+
+👉 https://patient-management-system-fastapi-1.onrender.com
+
 ## 🚀 Features
 
 ### Backend (FastAPI)
