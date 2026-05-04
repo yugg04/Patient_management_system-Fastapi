@@ -187,6 +187,4 @@ Frontend and backend are served from the **same URL**.
 ## 👨‍💻 Author
 
 **Yug Khatri**
-Backend & Full-Stack Development
-Healthcare Analytics Projects
 
